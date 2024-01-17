@@ -27,6 +27,7 @@ To RUN the Program:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 In order to visualize BOTAS' capabilities, this is a logged file that depicts a possible conversation with two participants – V1 and telnet6:
+```
 PRANESIMASV1: 1
 PRANESIMASV1: 2
 PRANESIMASV1: 3
@@ -59,3 +60,4 @@ PRANESIMAStelnet6: @BOTAS #MIN
 PRANESIMASBOTAS: telnet6's shortest word is [10], length: 2 letters.
 PRANESIMAStelnet6: @BOTAS #MAX
 PRANESIMASBOTAS: telnet6's longest word is [100], length: 3 letters.
+```
